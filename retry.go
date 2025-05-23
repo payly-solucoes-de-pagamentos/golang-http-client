@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2"
-	logging "github.com/payly-solucoes-de-pagamentos/golang-logging"
+	logging "github.com/raizen/golang-logging"
 )
 
 type attemptMetadata struct {

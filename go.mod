@@ -1,10 +1,10 @@
-module github.com/payly-solucoes-de-pagamentos/golang-http-client
+module github.com/raizen/golang-http-client
 
 go 1.19
 
 require (
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/payly-solucoes-de-pagamentos/golang-logging v0.0.1
+	github.com/raizen/golang-logging v0.0.1
 	go.opentelemetry.io/otel v1.11.2
 )
 
